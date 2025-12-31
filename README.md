@@ -21,7 +21,7 @@
 
 1. 克隆或下載此專案
 ```bash
-git clone <repository-url>
+git clone https://github.com/ani20168/Steam-FindComment-Crawler.git
 cd Steam-FindComment-Crawler
 ```
 
